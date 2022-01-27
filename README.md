@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @BretonErst
-- 👀 I’m interested in Data Science using R and RStudio
-- 🌱 I’m currently learning about mixture models.
-- 💞️ I’m looking to collaborate on projects to help organizations take advantage of their data.
+Hello_world!
+
+I am @BretonErst
+
+I am all into Data Science, striving to create knowledge that make us better.
+
+So, what does data say?
 
 
 <!---

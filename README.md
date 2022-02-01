@@ -4,7 +4,6 @@ I am @BretonErst
 
 I am all into Data Science, striving to create knowledge that make us better.
 
-So, what does data say?
 
 
 <!---

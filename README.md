@@ -1,5 +1,7 @@
 # So, What does the data have to say?
 
+Hello, fellow humans! 
+
 I am @BretonErst
 
 I am all into Data Science, striving to create knowledge that make us better.

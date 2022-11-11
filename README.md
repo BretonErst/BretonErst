@@ -2,9 +2,9 @@
 
 Hello, fellow humans! 
 
-I am @BretonErst
+I am @BretonErst.
 
-I am all into Data Science, striving to create knowledge that make us better.
+I am all into Data Science, enthusiast practitioner of R languaje, commited to help creating knowledge that make us better human beings.
 
 
 

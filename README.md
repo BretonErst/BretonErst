@@ -4,7 +4,7 @@ Hello, fellow humans!
 
 I am @BretonErst.
 
-I am an enthusiast practitioner of R languaje, all devoted into Data Science, commited to help creating knowledge that lead to better decisions.
+I am an enthusiast practitioner of Data Science, all into R, commited to help creating knowledge that lead to better decisions.
 
 
 
